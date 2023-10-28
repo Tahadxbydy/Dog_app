@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "469529767335",
+    "project_id": "bruno-s-kitchen",
+    "storage_bucket": "bruno-s-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469529767335:android:033ac3c9b58b4a5a1e9a82",
+        "android_client_info": {
+          "package_name": "com.brunoskitchen.brunos_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469529767335-ghlju26s32brl42flkkqiekkq8s57b9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoskitchen.brunos_kitchen",
+            "certificate_hash": "25dd4ac8db9c4c2e4f24fc3d5b718d68b3ff50c8"
+          }
+        },
+        {
+          "client_id": "469529767335-rgh7p1p6vb9rdh6nrneo9i7hd42d5g05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoskitchen.brunos_kitchen",
+            "certificate_hash": "348c1b217f2d2de8b8407688364beebe11f3d227"
+          }
+        },
+        {
+          "client_id": "469529767335-0np0ovi9f7d62duqbs7umv7lep2b31c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgADSl4kNRPODpis7cXoBAqiY0in3vV0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469529767335-0np0ovi9f7d62duqbs7umv7lep2b31c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469529767335-mvgei95g9dg0070mm4t1u1jcfu66eq8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brunoskitchen.brunosKitchen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
