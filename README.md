@@ -1,4 +1,4 @@
-# brunos_kitchen
+# my flutter project
 
 A new Flutter project.
 
